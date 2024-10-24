@@ -43,9 +43,11 @@ To run this project locally, you need the following installed on your system:
 ```bash
 git clone https://github.com/Yadentra/weather-app.git
 
+
 ### Navigate to the Project Directory
 
 cd weather-app
+
 
 ### License
 
